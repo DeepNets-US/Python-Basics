@@ -1,0 +1,4 @@
+This is a sample text file, created for the use of
+studying Python Programming and 
+how to open, read and
+close files in Python.
